@@ -15,13 +15,13 @@ $result1=$active->activeTeam();
 <html>
 <head>
   <meta http-equiv="refresh" content="5;url=http://localhost/cricinfo/liveScores.php" />
-	<title> Live Scores </title>
-	<link   rel="stylesheet" href="css/style.css" type="text/css"> </link>
+	<title> GPL Live Scores </title>
+	<link   rel="stylesheet" href="style.css" type="text/css"> </link>
 </head>
 <body>
 <div>
 	<header>
-		<h1>Live Scores</h1>
+		<h1>GPL Live Scores</h1>
 	</header>
 	<nav>
 	   <ul>
@@ -128,7 +128,7 @@ $result1=$active->activeTeam();
 </section>
 	
 	<footer>
-		<p>copyright &copy; Md. Moniruzzaman Aurangzeb</p>
+		<p>copyright &copy; Gottimukkala Akash</p>
 	</footer>
 </body>
 </html>
